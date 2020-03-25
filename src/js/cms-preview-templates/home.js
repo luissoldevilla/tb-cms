@@ -25,6 +25,7 @@ export default class PostPreview extends React.Component {
             {(entry.getIn(["data", "products"]) || []).map((product, i) => <div className="ph2-ns w-50-ns" key={i}>
               <img src={getAsset(product.get("image"))} alt="" className="center db mb3" style={{width: "240px"}}/>
               <p>{product.get("text")}</p>
+              <p>{product.get("price")}</p>
             </div>)}
           </div>
 
