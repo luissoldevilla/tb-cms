@@ -1,7 +1,7 @@
 ---
-title: Our Coffee
+title: Dinner Menu
 type: products
-image: /img/products-jumbotron.jpg
+image: /img/header1.png
 heading: What we offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -98,5 +98,3 @@ pricing:
       plan: Custom
       price: '?'
 ---
-
-
