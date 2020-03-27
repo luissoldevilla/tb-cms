@@ -85,3 +85,9 @@
 
 /* Uncomment out the line below to help debug layout issues */
 /*@import './imports/_debug';*/
+.gridm {
+  display: grid;
+  grid-gap: 1.5em;
+  grid-template-columns: 50% 50%;
+  width: 90%;
+}
