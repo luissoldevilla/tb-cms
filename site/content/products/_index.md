@@ -1,49 +1,20 @@
 ---
+heading: null
 title: Dinner Menu
-type: products
 image: /img/header1.png
-heading:
-description:
-
-intro:
-  heading: ""
-  text: ""
-
 products:
-    - image: img/plate_ui1.png
-      text: "Cheesy Baked Broccoli"
-      price: ""
-    - image: /img/ui_3.png
-      text: "Gourmet Steak"
-      price: ""
-    - image: /img/ui_4.png
-      text: "Shrimp Salad"
-      price: ""
-    - image: /img/ui_5.png
-      text: "Veggie"
-      price: ""
-main:
-  heading:
-  description:
-  image1:
-    alt:
-    image:
-  image2:
-    alt:
-    image:
-  image3:
-    alt:
-    image:
-testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+  - image: img/plate_ui1.png
+    text: Cheesy Baked Broccoli
+    price: '12.00'
+  - image: /img/ui_3.png
+    text: Gourmet Steak
+    price: '13.50'
+  - image: /img/ui_4.png
+    text: Shrimp Salad
+    price: '13.50'
+  - image: /img/ui_5.png
+    text: Veggie
+    price: '12.50'
 pricing:
   heading: Monthly subscriptions
   description: >-
@@ -72,4 +43,31 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: '?'
+intro:
+  heading: ''
+  text: ''
+full_image: ''
+testimonials:
+  - author: Elisabeth Kaurismäki
+    quote: >-
+      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
+      the same thing I’ve been drinking every morning.
+  - author: Philipp Trommler
+    quote: >-
+      Kaldi is the place to go if you want the best quality coffee. I love their
+      stance on empowering farmers and transparency.
+main:
+  heading: null
+  description: null
+  image1:
+    alt: null
+    image: null
+  image2:
+    alt: null
+    image: null
+  image3:
+    alt: null
+    image: null
+type: products
+description: null
 ---
