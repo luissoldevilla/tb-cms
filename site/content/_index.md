@@ -25,6 +25,9 @@ products:
   - image: /img/ui_5.png
     text: Veggie Salad
     price: '14.00'
+  - image: img/ui_02.png
+    text: 'American Steak '
+    price: '19.99'
 values:
   heading: Our values
   text: >-
