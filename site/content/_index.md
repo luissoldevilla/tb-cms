@@ -1,5 +1,5 @@
 ---
-title: 'hi welcome tromy ,menu'
+title: Welcome to Our Menu!
 subtitle: Luis!
 image: /img/header1.png
 blurb:
