@@ -25,8 +25,8 @@ products:
   - image: /img/ui_5.png
     text: Veggie Salad
     price: '14.00'
-  - image: img/ui_02.png
-    text: 'American Steak '
+  - image: img/chicken.png
+    text: Chicken Sandwich
     price: '19.99'
   - image: img/ui_3.png
     text: Salmon Salad
