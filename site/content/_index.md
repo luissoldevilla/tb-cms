@@ -31,6 +31,9 @@ products:
   - image: img/ui_3.png
     text: Salmon Salad
     price: '8.99'
+  - image: img/ui_5.png
+    text: tacu tacu
+    price: '19.99'
 values:
   heading: Our values
   text: >-
