@@ -14,7 +14,7 @@ intro:
   text: ''
 products:
   - image: img/ui_02.png
-    text: Carne Asada here at meeting
+    text: Carne Asada
     price: '8.99'
   - image: /img/ui_3.png
     text: Gourmet Steak
